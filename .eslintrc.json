@@ -1,0 +1,53 @@
+{
+  "parserOptions": {
+    "ecmaVersion": 8,
+    "sourceType": "module"
+  },
+  "env": {
+    "es6": true,
+    "node": true
+  },
+  "rules": {
+    "no-negated-in-lhs": 1,
+    "no-regex-spaces": "error",
+    "valid-jsdoc": 0,
+    "no-reserved-keys": 0,
+    "semi": "error",
+    "prefer-const": "error",
+    "no-const-assign": "error",
+    "block-scoped-var": "error",
+    "no-global-assign": "error",
+    "no-redeclare": "error",
+    "no-cond-assign": "error",
+    "no-console": 0,
+    "no-constant-condition": "error",
+    "no-control-regex": "error",
+    "no-debugger": "error",
+    "no-dupe-args": "error",
+    "no-dupe-keys": "error",
+    "no-duplicate-case": "error",
+    "no-empty-character-class": "error",
+    "no-empty": 1,
+    "no-ex-assign": "error",
+    "no-extra-boolean-cast": "error",
+    "no-extra-semi": "error",
+    "no-func-assign": "error",
+    "no-inner-declarations": "error",
+    "no-invalid-regexp": "error",
+    "no-irregular-whitespace": "error",
+    "no-obj-calls": "error",
+    "no-sparse-arrays": "error",
+    "no-unexpected-multiline": "error",
+    "no-unreachable": "error",
+    "no-unsafe-finally": "error",
+    "no-useless-concat": "error",
+    "use-isnan": "error",
+    "valid-typeof": "error",
+    "no-undef": "error",
+    "no-unused-vars": 1,
+    "quotes": ["error", "single"],
+    "prefer-template": "warn",
+    "no-irregular-whitespace": "warn",
+    "no-multi-spaces": "error"
+  }
+}
